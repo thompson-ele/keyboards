@@ -1,7 +1,7 @@
 {
   "name": "Viktus Anda",
   "vendorId": "0x5644",
-  "productId": "0x0001",
+  "productId": "0x1942",
   "lighting": "none",
   "matrix": { "rows": 12, "cols": 10 },
   "layouts": {
