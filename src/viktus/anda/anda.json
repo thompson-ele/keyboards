@@ -7,7 +7,7 @@
   "layouts": {
     "labels": [
       "Split Backspace",
-	    "Enter Key",
+	    "ISO Enter",
       "Split Left Shift",
       "Numpad Split Enter",
       "Numpad Split +",
@@ -126,7 +126,7 @@
         {
           "w": 1.5
         },
-        "4,7",
+        "4,7\n\n\n1,0",
         "5,7",
         {
           "x": 0.25
