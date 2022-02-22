@@ -2,7 +2,7 @@
   "name": "n3wb macropad",
   "vendorId": "0x0373",
   "productId": "0x0001",
-  "lighting": "qmk_rgblighting",
+  "lighting": "qmk_rgblight",
   "matrix": { "rows": 3, "cols": 3 },
   "layouts": {
     "keymap": [
