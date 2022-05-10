@@ -2,7 +2,7 @@
   "name": "Chaos Pad",
   "vendorId": "0x0373",
   "productId": "0x0001",
-  "lighting": "none",
+  "lighting": "qmk_rgblight",
   "matrix": { "rows": 4, "cols": 6 },
   "layouts": {
     "labels": [
